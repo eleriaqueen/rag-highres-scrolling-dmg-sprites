@@ -1,7 +1,7 @@
 # What is this project ?
 It combines my love for Ragnarok Online with one of my hobbies which is tinkering with vector graphics.
 
-I've always thought the original damage font looked ugly because it was rasterised at a very low resolution then converted to sprites and Gravity (the makers of the game) never changed it so now in 2022 when blown up on a 1080p screen (or bigger) it looks awful!
+I've always thought the original damage font looked ugly because it was rasterised at a very low resolution then converted to sprites and Gravity (the makers of the game) never changed these sprites so now in 2022 when blown up on a 1080p screen (or bigger) they look awful!
 
 The project aims to provide high resolution sprites of a variety of popular/cool/interesting fonts using faithful color gradients.
 
