@@ -10,6 +10,8 @@ Sprite format BGRA32 was selected for its superior graphical fidelity.
 
 If BGRA32 crashes your game convert each sprite to Indexed8.
 
+Slightly modified ACT are available for convenience if you want the original animations. They have been adjusted for the higher sprite resolution.
+
 # License
 You may not re-package, re-release nor publish modified versions of files from this project under any circumstance. 
 
