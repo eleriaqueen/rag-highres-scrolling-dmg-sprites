@@ -13,9 +13,9 @@ If BGRA32 crashes your game convert each sprite to Indexed8.
 Slightly modified ACT are available for convenience if you want the original animations. They have been adjusted for the higher sprite resolution.
 
 # License
-You may not re-package, re-release nor publish modified versions of files from this project under any circumstance. 
+You may not publish modified versions of files from this project under any circumstance.
 
-You must both give credit to the author of the project and include a link to this repository in a user-facing file.
+You must both give credit to the author of the project and include a link to this repository in a user-facing file if you are including files from the project with a game client.
 
 # Support
 Please support my work by donating on [Paypal](https://paypal.me/eleriaqueen)
