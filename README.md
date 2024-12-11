@@ -17,7 +17,7 @@ Slightly modified ACT are available for convenience if you want the original ani
 # License
 You may not host files from this project under any circumstance, this is their only home.
 
-If you must break this rule for some reason, at least mention that porting them and making them compatible with RO was done by me (eleriaqueen).
+If you must break the first rule, please add a mention that porting the fonts to RO was done by me (eleriaqueen) and maybe include a link to this repo.
 
 # Support
 Please support my work by donating on [Paypal](https://paypal.me/eleriaqueen)
