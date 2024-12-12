@@ -15,9 +15,7 @@ If BGRA32 sprites crash your game convert them to Indexed8.
 Slightly modified ACT are available for convenience if you want the original animations. They have been adjusted for the higher sprite resolution.
 
 # License
-You may not host files from this project under any circumstance, this is their only home.
-
-If you must break the first rule, please add a mention that porting the fonts to RO was done by me (eleriaqueen) and maybe include a link to this repo.
+Please add a note that porting the fonts to RO was done by me (eleriaqueen) and if possible include a link to this repo.
 
 # Support
 Please support my work by donating on [Paypal](https://paypal.me/eleriaqueen)
